@@ -56,6 +56,9 @@ referential check.sql
 dashboard/  
 Customer Segmentation & CLV.pbix  
 dashboard.png  
+## Dashboard
+
+![Dashboard](dashboard/dashboard.png)
 
 ## Key Insights
 - High-value customers contribute a large share of revenue  
